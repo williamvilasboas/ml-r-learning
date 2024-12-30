@@ -11,3 +11,5 @@ terceiroVetor <- c(primeiroVetor, segundoVetor)
 
 print(terceiroVetor)
 length(terceiroVetor)
+
+
